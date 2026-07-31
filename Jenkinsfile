@@ -4,6 +4,7 @@ pipeline {
 
     tools {
         maven 'mvn'
+        
     }
 
     stages {
